@@ -7,3 +7,11 @@ results/
 *.vcf
 .nextflow*
 work/
+# Reference genomes and indexes
+reference/*.fa
+reference/*.fasta
+reference/*.amb
+reference/*.ann
+reference/*.bwt
+reference/*.pac
+reference/*.sa
