@@ -1,0 +1,9 @@
+data/
+results/
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.vcf
+.nextflow*
+work/
